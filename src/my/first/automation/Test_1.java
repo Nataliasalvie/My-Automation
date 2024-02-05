@@ -1,4 +1,4 @@
-package my_automation;
+package my.first.automation;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
